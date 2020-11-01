@@ -1,0 +1,9 @@
+Title - Carrom 
+Goal - pocketing the coints
+Story - the striker is to be pulled and the released. After the
+striker is released it will move in the direction you flick it, if it 
+is flicked in a way such that any coins the coin will be in the pocket
+ and you will recive points accordingly. The player which will 
+recive the target first will win.
+Playing character - striker
+Non-Playing character - coins
